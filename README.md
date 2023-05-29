@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 sᴀᴍᴜʀᴀɪ ダ ᴍᴜsɪᴄ 」──
+    ──「 ᴄʀᴇᴇᴘʏ ダ ᴍᴜsɪᴄ 」──
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/file/604608c491ed5863eedae.jpg">
+  <img src="https://graph.org/file/93e30cbf66386a224c8cc.jpg">
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/36be820a8775f0bfc773e.jpg">
+  <img src="https://graph.org/file/3a112fe5db4eea0aa3063.jpg">
 </p>
 
 <h3 align="center">
